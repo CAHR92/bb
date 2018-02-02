@@ -1,0 +1,117 @@
+0030010000106Qr5kgAiaUrGCC8iHb7oMvD%2BOcEU629T1V%2FVdTjxBv%2F%2FEbOdBQ3f%2BM%2FukaPToQbmmMvxxgTAxhfFkrT%2BaHaWFzw%3D%3D044Vntly6I3nnSNNhEt7QXMOQmN9AMj9uXronTBbPEvXP4n
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"TSYHXUPGG1"}}
+Token generado exitosamente
+00300200000965D4tWn811JP3x8HcbeHXJAq6o0Sk%2BOvfZbYOREZeflJvbkTp6wr5046EPGSjXD92bycBK04j3dVsK8gW%2B6nirw%3D%3D044K7OUJ3zH4fE4l0ojFKGCWudD9t36amGbQdK3uI8prNMi
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+Se ha enviado correctamente el código de confirmación al teléfono proporcionado
+1
+0030010000096XE5puZwvj8ZY1N6E%2Bw3T5ewsBTE72p2jLrLSji7r8MajG2U56GzveBsObJ%2BjCvgRdJ3UQGLPSsdZ7rd6ENxQWw%3D%3D044SdevWYICryP8cwSkcP7ef1jE77nYu3XBaAjxgTwvMMge
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"N8MD36E8ZC"}}
+Token generado exitosamente
+{"idCanal": "3", "idPais": "1", "codigoConfirmacion": "1111", "numeroTelefono": "5542848859"}
+0030030000130DPNXMdn4G8phedfEM8o3BVm7DCwqp9vFRZ7TJw%2FXJxZbh37QwS7QRyCR6Roy3kwICykswRZxcS7y1SGKMhvgfpffT1EJ3IBY3CVUCSd4RpL3EgZs9YGq7gerIZkDqwZk044YQzt25Q8Jf7Lo6gKGlvXJyi7j3rm2GcDJF7aie28tW0o
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+Los códigos de confirmación NO coinciden ERR0005
+Los códigos de confirmación NO coinciden ERR0005
+00300100000946MYwJJ0Nebxf35F3FIhN3G3Le8EyPoSsgfv9%2FC7Ov4MYzXfd0wTqTYjekCBgMrOlrnIhHieG9ABYGupgKxCA1A%3D%3D044DDkfo3Lef94FdCnA84c3ZcsJfhtt8ETO9DGllPh5nJcf
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"LLZIREI9KT"}}
+Token generado exitosamente
+{'contrasenia': 'KaJsxmBFvd8mLsFlo4764Q%3D%3D', 'email': 'aldo@plincos.com', 'token': 'LLZIREI9KT', 'nickName': 'Aldo', 'tipo_op': 4, 'numeroTelefono': 5542848859}
+{"contrasenia": "KaJsxmBFvd8mLsFlo4764Q%3D%3D", "email": "aldo@plincos.com", "token": "LLZIREI9KT", "idCanal": "3", "idPais": "1", "nickName": "Aldo", "numeroTelefono": "5542848859"}
+0030040000258%2F0V53VLdx8hlyyfvu77QildK5KCRj2404PKZp1mKxO4qyytDMVTXOXdzxNMEukuxY2Rsffy4dt1dhX9P1WP90bJnGUtdSU3KKEIDmn5oR8N82LZuIhi04rRlPil4AC33V4GM98ogkrSr3IY92ei48ElUDA400lxmkLA5RPDrcjwEJ3hfalO8JUElXplMTzfMjGUyAdHWDXB0Qr7LV%2B6nnPoFLyPmEvXtKlBE71QflEftBTY7UVec%2Fw%3D%3D044v8aDegQnzuYS1gCHLTWhzhbjqHCNFuce4xv0eb7aV8oc
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":0,"tipoMensaje":"ERR0003","mensaje":"Error al registrar el cliente invitado.","detalleMensaje":"El cliente 5542848859 YA se encuentra registrado.","datosSalida":null}
+Error al registrar el cliente invitado. ERR0003 El cliente 5542848859 YA se encuentra registrado.
+Error al registrar el cliente invitado. ERR0003 El cliente 5542848859 YA se encuentra registrado.
+0030010000096BYvLOVL0pverUhzJLtlh2yXdvzADlF3nq0v0JjigVMhDV3LNGNDDGo%2BBNQoICKZ4QzBpsWubzSq%2B9wLDVwBASQ%3D%3D044Rgq6fxV5wJoXjcZPXOqa9hS1MYOUw5VUp6uQI7cD3noq
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"U657CE0QOU"}}
+Token generado exitosamente
+{'contrasenia': '2mA1LAeVy23xPCH%2B%2BKKliw%3D%3D', 'tipo_op': 5, 'token': 'U657CE0QOU', 'numeroTelefono': 5542848859}
+{"idCanal": "3", "idPais": "1", "contrasenia": "2mA1LAeVy23xPCH%2B%2BKKliw%3D%3D", "token": "U657CE0QOU", "numeroTelefono": "5542848859"}
+00300500002145VbP%2FmCe48jyp1O%2FwKqC7%2BTTPYOmETsyWWwiJ1dsJkwiWhkBp7M%2FbphfLJ1rN79PHSpxeA7P9c%2FmYqkKQPrnh3pqWk%2B16tm6NaMwl9d%2BO6rZ63nMH5efCixKHwhax%2BVtKA0HcOqeWO9HDWvYXDVV%2FMvI1OlZ27ZE3h3pasTkZV%2FmG1l3No0zZcggFR%2FhDkGq044zYGEYHPnh9igC8AV3ePeE8RAVr8yyTeuuHvCKu5DOR8o
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Hola, bienvenido a tu monedero.","detalleMensaje":"","datosSalida":{"codigoSesion":"IB9G0STXC8FFFZQSUPQ8"}}
+Hola, bienvenido a tu monedero.
+IB9G0STXC8FFFZQSUPQ8
+0030010000096tq7T4nPu2EHYPDapIGE9lyLqin0ABuAt%2FUEBEVdx4bsTx%2FTaUamMPnze4sjBvfbJOX3C1g4bZnLBxVkvp7JwLw%3D%3D044r4n271x4VYAUNTtHNiUxV7wn3VGqM2zDii503rsLBnkw
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"ULR1Z8CQ3Z"}}
+Token generado exitosamente
+{'apMaternoTarjeta': 'apellidoMaterno', 'nombre': 'ALDO', 'token': 'ULR1Z8CQ3Z', 'apPaternoTarjeta': 'none', 'validadorTarjeta': 'nqh%2FyH45rBs%3D', 'numTarjeta': '6CIuc3svMQei%2BUpFoUdIQv%2FQ8wXNqtfu', 'codigoSesion': 'IB9G0STXC8FFFZQSUPQ8', 'tipo_op': 6, 'fechaExpTarjeta': '088huM%2FJ4zY%3D', 'numeroTelefono': 5542848859}
+{"apMaternoTarjeta": "apellidoMaterno", "codigoSesion": "IB9G0STXC8FFFZQSUPQ8", "idPais": "1", "validadorTarjeta": "nqh%2FyH45rBs%3D", "token": "ULR1Z8CQ3Z", "apPaternoTarjeta": "none", "longitud": "-00.00000000", "latitud": "00.000000", "idCanal": "3", "fechaExpTarjeta": "088huM%2FJ4zY%3D", "numTarjeta": "6CIuc3svMQei%2BUpFoUdIQv%2FQ8wXNqtfu", "nombreTarjeta": "ALDO", "numeroTelefono": "5542848859"}
+003006000057478V7N5xwCYRauGVdmd9naoLKhKccmAEAjS7wWEvb2yNqsSgyw9DV49x6HPez9yc74yuNQRhvUmqwAk78LEcLjTNhmYPm1Q5YysGvwlrfmAbFwWhcHbFOyZJVUT8HMh53aTJ180wRdsFvrJRdEK29iAHTH8%2FM4la9PU4k%2BEWYZqUd%2FsSOj%2FGbYzLKte9CiJfcS4%2B1c%2BtIMAtevIdsYb4MkY8v3GiAHvhhVZK1bFimRSauz05GvJMuaiRpyNYKFnESLi5LNicRLwJWiZYZqHzBz%2FtJD99%2F4OlXJ3tqIDvb8iyXMRKK2LODpa%2B5wxU3AkNjg%2FUKLSjGI8Lwd7GTbvCQVP2ZbEyTtkX9de7GrlWVT%2FI68cvt%2FfLc6xqrV3MSMB%2FuFLUGUsBVfmEbrObd8siXaufunYJKswgtaPd%2Fk3AKlkuCNyJxz2PGXR9iC9HeJelbO1uSr7M7HB%2BPoqX1fwFlJg2VGGGohPginOmIlPLpkAKcnyuz5Gfj64KkKtrRxevBmG6nj6MGeVN4c7dTtRA7kdXUUUawELfr044T2NYNBLK1S0uDNmo472iTra2D4fI9rX9iFkXUalaUz8r
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":0,"tipoMensaje":"ERR0003","mensaje":"Error al registrar tarjeta.","detalleMensaje":"EL BIN es correcto","datosSalida":null}
+Error al registrar tarjeta. ERR0003
+Error al registrar tarjeta. ERR0003
+0030010000098EYOljXqjNm6tToxzm2Ni%2B7fnepYPeWrQn%2Bupn9SwizTfYB71Tfa2NQ%2FMqmMUzXOz2vcP9kA3PNKOqI25tq47tQ%3D%3D044gFqf9lBCMVDQ3HIYC1eiN1wJL9Q9Sg8oYUbELmJylR0c
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"ROQ9R7EM5Q"}}
+Token generado exitosamente
+{'apMaternoTarjeta': 'apellidoMaterno', 'nombre': 'ALDO', 'token': 'ROQ9R7EM5Q', 'apPaternoTarjeta': 'none', 'validadorTarjeta': 'du6SM1MGtwg%3D', 'numTarjeta': 'Xp1V2THD5oXlioTjRzhLUWSw7N018EXb', 'codigoSesion': 'IB9G0STXC8FFFZQSUPQ8', 'tipo_op': 6, 'fechaExpTarjeta': 'MbxvM%2BRbSoI%3D', 'numeroTelefono': 5542848859}
+{"apMaternoTarjeta": "apellidoMaterno", "codigoSesion": "IB9G0STXC8FFFZQSUPQ8", "idPais": "1", "validadorTarjeta": "du6SM1MGtwg%3D", "token": "ROQ9R7EM5Q", "apPaternoTarjeta": "none", "longitud": "-00.00000000", "latitud": "00.000000", "idCanal": "3", "fechaExpTarjeta": "MbxvM%2BRbSoI%3D", "numTarjeta": "Xp1V2THD5oXlioTjRzhLUWSw7N018EXb", "nombreTarjeta": "ALDO", "numeroTelefono": "5542848859"}
+0030060000566SJcUgqAxy3EziQnMlXtaHtGbFoYfeUdCCYTY4jlc9Bq8SUlSeoe33ebD%2Bqv5oKlOTDrQpeSxU9yBsg1QcCf1E1NPOaiWbD1ETX1i975ttTdwFY0nTESv6bSJGycolcnuMNCcxs%2FDxuYQFr%2F6Rbuy2JOzf7VBs5BeiQGOfx0l51umiE5X54%2Bc2SzlgIAxUNWyyqCD2S6nUknLan9%2BDcBAxWWo6qqHvvSXYp74w790ywL4bSQk2r8Dqh59nUkNNXOyQK9KbDkAnjhfYLtmXLFoi65iDUg23L5EZlwTtyk1klyOM1ohfqu3jdyY%2FL5kgFE3%2BUAeoAu%2BcFCmn6HfStkQxbZkB8GnNVa2pZrnzHV829Z35qIWW%2BN0puDsaVprzrwZFPhnVPr4494PskSmVkMM16D0oquDYZSy%2B3XiPiitLIBcJZiSP8HyCdy0T%2BWqgDGau4hS576T4Xf5eRig4ZMahqHLG%2Bk5tAu4s9P6ms3cgNbbV1lnBkY1HU2b%2B75jbgxIiFH54wcLIyI3NGaQ3I6dJg%3D%3D044z0fgAG0s91rAQpTddTGnVjmhK7dmST6n8l7mojZkXOgd
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":0,"tipoMensaje":"ERR0003","mensaje":"Error al registrar tarjeta.","detalleMensaje":"EL BIN es correcto","datosSalida":null}
+Error al registrar tarjeta. ERR0003
+Error al registrar tarjeta. ERR0003
+0030010000096zjlidY2wryXv9wkMfTxaToLFaxC0ljUCSbvjckDUL955gPbXV1MBYh%2BdqQWG%2BBEpAXKhaB563yXbwncUztzthA%3D%3D044E4MjUbKWgpCS8tDtcSv1Oy2sWslY0YdlVPQhaGiqOKAe
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"XMM80MM6AJ"}}
+Token generado exitosamente
+{"idCanal": "3", "idPais": "1", "codigoSesion": "IB9G0STXC8FFFZQSUPQ8", "token": "XMM80MM6AJ", "numeroTelefono": "5542848859"}
+00300700001823IzWZhQr6Uten9kddA2eDgmmOlKWUbUMkNBYRiksPC%2BLs%2F3VajF1EvqofQliyjrTfzl98YwJmgxgFMh5B26Wknnij4C6LT76eK%2BW6M2Oj3BiHyogs9ocWyHiXwebuehKFLCNmrpNaL7FYeDwyJdwMY4%2BCpTxGAcvTHhp60F7X0Y%3D044qArffcmkIoB0EpnmGPl0mV0xfgNCQivjTmHOJHAf3cUn
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+Operación exitosa!!
+[{'mascara': '0408', 'fechaExpira': '01/25', 'tarjetaId': 2, 'tipoTarjeta': 'DÉBITO', 'banco': 'AZTECA', 'marcaTarjeta': 'MASTER CARD'}, {'mascara': '9855', 'fechaExpira': '02/18', 'tarjetaId': 6, 'tipoTarjeta': 'DÉBITO', 'banco': 'AZTECA', 'marcaTarjeta': 'MASTER CARD'}, {'mascara': '5898', 'fechaExpira': '02/18', 'tarjetaId': 5, 'tipoTarjeta': 'DÉBITO', 'banco': 'AZTECA', 'marcaTarjeta': 'MASTER CARD'}, {'mascara': '2297', 'fechaExpira': '02/18', 'tarjetaId': 3, 'tipoTarjeta': 'DÉBITO', 'banco': 'AZTECA', 'marcaTarjeta': 'MASTER CARD'}]
+0030010000096rBFwTf7wvopm%2BpDc8F1yBRP3rJNfYDiOSHofi%2FpZ79vgoCMdk4Ld246oDrkGQFWQdGUzViNMFV32a1aAkk2NBw%3D%3D044JclRs8geGLpeDyAuQwMZC54KsaS68bjrTw8lIjpPCcwj
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"YDKEHDRPZN"}}
+Token generado exitosamente
+{"tarjetaId": 1, "token": "YDKEHDRPZN", "codigoSesion": "IB9G0STXC8FFFZQSUPQ8", "idCanal": "3", "idPais": "1", "numeroTelefono": "5542848859"}
+0030080000214VjmPR2RqtlkOAKu4an7BjJ%2FZOMmNoJHfqO3V%2BsX1EDFhQOm1C3qYfN8deRn%2Fom2bn3WGU97EcfGma72wQAtueIm5cVT%2F%2BRy7a333JzQuWLZiPgm7%2FkxO3lw%2Bl6AjeJt7KEIczNRs%2FPMz6P7%2FEejQHjSrzyVEBDU2vFGNBp6%2F5wygO9tGc8MIy3L%2Berf88ZX7044TNJBc2ZUXOMWVobwRnv6dRRDjY8RptFDuHEjZXDeucou
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{'datosSalida': None, 'mensaje': 'No existe la tarjeta que desea eliminar.', 'codigoOperacion': 0, 'detalleMensaje': '', 'tipoMensaje': 'ERR0005'}
+No existe la tarjeta que desea eliminar. ERR0005
+No existe la tarjeta que desea eliminar. ERR0005
+0030010000100Y%2Fe5isgwE%2FQhJOeivw%2B75XrOy%2BmP94wfIUVA9m8a0GA8RLNVgicNJ9OBnrcbqFCiXIPZv5HDHHieAdJOUG1ovw%3D%3D044eyB8tonasDVTdfMUDwMIt4tv6O6Tpn19gTft3Hox3kMt
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"NM5CUNLRQ0"}}
+Token generado exitosamente
+{"emisorId": "66", "referencia": "16445699219", "token": "NM5CUNLRQ0", "codigoSesion": "IB9G0STXC8FFFZQSUPQ8", "idCanal": "3", "idPais": "1", "importe": "522", "numeroTelefono": "5542848859"}
+0030090000274Sm5VlQzT5A11a3gXgONDYsBPpUiw%2B%2F74eOSOANUQtAKemnc%2BWqQOICX8Ig7W8bwx7oCejhyyNLO9bLeIKV7laKqSX5Pugcq5F3uPhI%2BbZAYM3lQOvBUt19I89GmrBkpyX8Ulu9M06FWNPOKQxDbBoG%2Fx%2BqSDMKNYMoi3n4kEvEktUJn9tKkHSk7MPguZRBX7B%2FVu02O0uZkNokXkvP9IcUn1vUF2wDBAXo%2BaM6xJ21FmTGl6XMte0UWo%2Be0ZySnG044SOyovrOucOWcALqM5oWxdoIu5hPCbvYSmHbFVzMGBBso
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+Fallo en DatosValidaReferencia.closePrep.Conexi&#xF3;n cerrada ERR0003
+Fallo en DatosValidaReferencia.closePrep.Conexi&#xF3;n cerrada ERR0003
+0030010000094PtPTA2RXZgl0c1bf6oHArrfQNvTUHqIdAHI0L2R6Ku4K2PQAtlW3yijUnv3B21W33Zie8hHy9rtC62ZaIq%2Fi1A%3D%3D04474f2lpLlWof6buwrrP1kEIJSoRbUhNjW2uz3tmacDEQp
+/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+{"codigoOperacion":1,"tipoMensaje":"INFORMACION","mensaje":"Token generado exitosamente","detalleMensaje":"Token generado exitosamente","datosSalida":{"token":"CKTSJS5NXK"}}
+Token generado exitosamente
+Traceback (most recent call last):
+  File "testServicios.py", line 80, in <module>
+    trama10 = tramas.crea_trama(codigoSesion=inicia_sesion,comision="0.00",idEmisorSwitch=idEmisorSwitch,idTarjeta=idTarjeta,iva="0.00",
+NameError: name 'idEmisorSwitch' is not defined
+
